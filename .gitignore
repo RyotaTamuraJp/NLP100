@@ -1,3 +1,6 @@
 __pycache__
 .ipynb_checkpoints
 corpus
+*.txt
+*.json
+*.zip
